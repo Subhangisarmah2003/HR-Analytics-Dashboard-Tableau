@@ -1,4 +1,4 @@
-# 👥 HR Analytics Dashboard | Tableau Project
+# HR Analytics Dashboard | Tableau Project
 
 ### Transforming Employee Data into Meaningful HR Insights
 
@@ -10,7 +10,7 @@ The dashboard provides an overview of important HR metrics and helps identify pa
 
 Through interactive filters and visualizations, this project aims to make HR data easier to understand and support data-driven workforce decisions.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze overall employee attrition and workforce distribution.
 - Understand attrition patterns across different genders.
@@ -20,7 +20,7 @@ Through interactive filters and visualizations, this project aims to make HR dat
 - Examine attrition based on educational backgrounds.
 - Understand attrition patterns across gender and age groups.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Tableau Public
 - Data Visualization
@@ -31,7 +31,7 @@ Through interactive filters and visualizations, this project aims to make HR dat
 - Dashboard Development
 - Data Storytelling
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 | KPI | Value |
 |---|---:|
@@ -41,7 +41,7 @@ Through interactive filters and visualizations, this project aims to make HR dat
 | Active Employees | 1,233 |
 | Average Employee Age | 37 |
 
-## 📈 Dashboard Features & Analysis
+##  Dashboard Features & Analysis
 
 ### 1. Attrition by Gender
 - Compares employee attrition between male and female employees.
@@ -73,7 +73,7 @@ Analyzes employee attrition across three major departments:
 - Compares male and female attrition patterns across different age groups.
 - Uses donut charts for visual comparison.
 
-## 🎛️ Interactive Dashboard Features
+##  Interactive Dashboard Features
 
 - Education Filter
 - Dynamic Bin Size Parameter
@@ -82,7 +82,7 @@ Analyzes employee attrition across three major departments:
 - Visual Highlighting
 - Multiple HR Metrics
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 HR-Analytics-Dashboard-Tableau/
@@ -103,7 +103,7 @@ HR-Analytics-Dashboard-Tableau/
 - Improved analytical thinking and data storytelling skills.
 - Learned to communicate HR insights through visual reports.
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 Developed an interactive HR Analytics Dashboard that provides insights into employee attrition, workforce demographics, department distribution, and job satisfaction.
 
